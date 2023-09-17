@@ -1,2 +1,3 @@
 # Doctor-s-help-
-Mini Project A
+Mini Project A.
+Author - SUMEET BHAGAT
