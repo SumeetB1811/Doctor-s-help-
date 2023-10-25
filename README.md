@@ -1,4 +1,4 @@
-# Doctor-s-help-
+# Easymed-
 Mini Project A.
 <br>
 Author - SUMEET BHAGAT
